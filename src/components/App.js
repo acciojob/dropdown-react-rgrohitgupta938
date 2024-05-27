@@ -305,7 +305,7 @@ function App() {
         </div>
         <div className="col-6">
           <div className="row mt-5 p-4 border rounded">
-            <div id="state-name">
+            <div id="state-title">
               <h3>{selectedState.name}</h3>
             </div>
             <div id="state-description">
