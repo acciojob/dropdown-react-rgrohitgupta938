@@ -27,12 +27,12 @@ const states = [
       {
         name: "Bhopal",
         description:
-          "DBhopal is a city in the central Indian state of Madhya Pradesh. It's one of India’s greenest city. There are two main lakes, the Upper Lake and the Lower Lake.",
+          "DBhopal is a city in the central Indian state of Madhya Pradesh. It\'s one of India\'s greenest city. There are two main lakes, the Upper Lake and the Lower Lake.",
         landmarks: [
           {
             name: "MANIT",
             description:
-              "Maulana Azad National Institute of Technology Bhopal is a public technical university located in Bhopal, Madhya Pradesh, India. It is part of a group of publicly funded institutions in India known as National Institutes of Technology. ",
+              "Maulana Azad National Institute of Technology Bhopal is a public technical university located in Bhopal, Madhya Pradesh, India. It is part of a group of publicly funded institutions in India known as National Institutes of Technology.",
           },
           {
             name: "Berasia",
@@ -44,7 +44,7 @@ const states = [
       {
         name: "Gwalior",
         description:
-          "Gwalior is a city in the central Indian state of Madhya Pradesh. It's known for its palaces and temples, including the Sas Bahu Ka Mandir intricately carved Hindu temple. ",
+          "Gwalior is a city in the central Indian state of Madhya Pradesh. It\'s known for its palaces and temples, including the Sas Bahu Ka Mandir intricately carved Hindu temple.",
         landmarks: [
           {
             name: "Ajaypur",
@@ -57,7 +57,7 @@ const states = [
   {
     name: "Jharkhand",
     description:
-      "Jharkhand is a state in eastern India. It's known for its waterfalls, the elegant Jain temples of Parasnath Hill and the elephants and tigers of Betla National Park.",
+      "Jharkhand is a state in eastern India. It\'s known for its waterfalls, the elegant Jain temples of Parasnath Hill and the elephants and tigers of Betla National Park.",
     city: [
       {
         name: "Dhanbad",
@@ -117,7 +117,7 @@ const states = [
       {
         name: "Guwhati",
         description:
-          "Guwahati is a sprawling city beside the Brahmaputra River in the northeast Indian state of Assam. It’s known for holy sites like the hilltop Kamakhya Temple,",
+          "Guwahati is a sprawling city beside the Brahmaputra River in the northeast Indian state of Assam. It\'s known for holy sites like the hilltop Kamakhya Temple,",
         landmarks: [
           {
             name: "Ganesh Guri",
@@ -186,7 +186,7 @@ const states = [
       {
         name: "Gaya",
         description:
-          "Gaya is a holy city beside the Falgu River, in the northeast Indian state of Bihar. It’s known for 18th-century Vishnupad Mandir, a riverside temple with an octagonal shrine. Close by, ancient Mangla Gauri Temple is set on a hilltop. ",
+          "Gaya is a holy city beside the Falgu River, in the northeast Indian state of Bihar. It\'s known for 18th-century Vishnupad Mandir, a riverside temple with an octagonal shrine. Close by, ancient Mangla Gauri Temple is set on a hilltop. ",
         landmarks: [
           {
             name: "Bakraur",
