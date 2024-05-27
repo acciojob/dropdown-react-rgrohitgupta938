@@ -313,7 +313,7 @@ function App() {
             </div>
           </div>
           <div className="row mt-2 p-4 border rounded">
-            <div id="city-name">
+            <div id="city-title">
               <h3>{selectedCity.name}</h3>
             </div>
             <div id="city-description">
@@ -321,7 +321,7 @@ function App() {
             </div>
           </div>
           <div className="row mt-2 p-4 border rounded">
-            <div id="landmark-name">
+            <div id="landmark-title">
               <h3>{selectedLandmark.name}</h3>
             </div>
             <div id="landmark-description">
